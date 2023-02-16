@@ -13,4 +13,5 @@ vb sistemler kullanılmıştır
 # iletişim bölümü #
  
 email - gladyotr123@gmail.com
+
 instagram - @gladbey
