@@ -7,6 +7,7 @@ tkinter kütüphanesi kullanılarak yapılan bu sistem;
 - kişi kitap ekleme
 - tarih sistemi
 - kişi görüntüleme
+<br>
 vb sistemler kullanılmıştır 
  
 - iletişim bölümü -
